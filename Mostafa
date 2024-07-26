@@ -1,4 +1,4 @@
-oot:x:0:0:root:/root:/usr/bin/zsh
+root:x:0:0:root:/root:/usr/bin/zsh
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
 sys:x:3:3:sys:/dev:/usr/sbin/nologin
@@ -32,3 +32,4 @@ _gophish:x:110:115::/var/lib/gophish:/usr/sbin/nologin
 freerad:x:111:116::/etc/freeradius:/usr/sbin/nologin
 iodine:x:112:65534::/run/iodine:/usr/sbin/nologin
 messagebus:x:113:117::/nonexistent:/usr/sbin/nologin
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
